@@ -1,6 +1,7 @@
 # Rocket-Launches
 A simple analysis of rocket launch data   
-data collected from [here](https://www.kaggle.com/datasets/sefercanapaydn/mission-launches)
+data collected from [here](https://www.kaggle.com/datasets/sefercanapaydn/mission-launches)   
+A link to the dashboard can be found [here](https://public.tableau.com/app/profile/cameron.pearl2830/viz/RocketLaunchData/Dashboard1)
 
 ## Questions I wanted answered
 * How has the average price of launches changed over time  
