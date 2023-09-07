@@ -14,3 +14,4 @@ I checked for duplicates and filled blank data with N/A in Excel then uplaoded i
 I wrote the attached script to clean some small things, mainly changing the date column to a date data type and checking for typos   
 Then I uploaded the data to Tableau where I answered the analysis questions
 
+![Viz 1](https://github.com/Cameronpearl/Rocket-Launches/blob/main/Sheet%201.png)
