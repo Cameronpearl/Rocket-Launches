@@ -15,3 +15,6 @@ I wrote the attached script to clean some small things, mainly changing the date
 Then I uploaded the data to Tableau where I answered the analysis questions
 
 ![Viz 1](https://github.com/Cameronpearl/Rocket-Launches/blob/main/Sheet%201.png)
+![Viz 2](https://github.com/Cameronpearl/Rocket-Launches/blob/main/Sheet%202.png)
+![Viz 3](https://github.com/Cameronpearl/Rocket-Launches/blob/main/Sheet%203.png)
+![Viz 4](https://github.com/Cameronpearl/Rocket-Launches/blob/main/Sheet%204.png)
